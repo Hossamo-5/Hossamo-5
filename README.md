@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hossam
+- 👀 I’m interested in computer sciences
+- 🌱 I’m currently learning dart and flutter
+- 💞️ I’m looking to collaborate on developer community
+- 📫 How to reach me hossamo.5@zohomail.com
